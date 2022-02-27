@@ -14,12 +14,12 @@ step.
 ## DETAILS
 The input will come from a file called input.txt which will be placed in the same directory as your
 java file. The first line of the file will have a single value which will be the value of N. The next N lines will
-be the preference lists for the N women.
+be the preference lists for the N women.  
 You program will read in this file and perform the steps necessary to create the array where row i column
 j tells you how woman i ranks man j. For example if a woman ranks the men 5 1 3 8 2 7 6 4 then you
 should modify it to: man 1 is ranked 2nd, man 2 is ranked 5th, man 3 is ranked 3rd, man 4 is ranked 8th,
 man 5 is ranked 1st, man 6 is ranked 7th, man 7 is ranked 6th, and man 8 is ranked 4th. So you should
-create the line 2 5 3 8 1 7 6 4.
+create the line 2 5 3 8 1 7 6 4.   
 Then you will print this array out to the screen using tabs to seperate items in the same row. See the sample
 output below.
 
